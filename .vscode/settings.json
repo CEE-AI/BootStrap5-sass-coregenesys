@@ -1,0 +1,15 @@
+{
+    "better-comments.highlightPlainText": true,
+    //use a font with font ligature
+    "editor.fontFamily": "Jetbrains Mono, Menlo, Monaco, 'Courier New', monospace",
+    //enable font ligature
+    "editor.fontLigatures": true,
+    //enable vscode native bracket colorization
+    "editor.bracketPairColorization.enabled": true,
+    //enable vscode pair guides
+    "editor.guide.bracketpairs": true,
+    //highlight active tab
+    "workbench.editor.highlightModifiedTabs": true,
+    //6. enable parameter hints
+    "typescript.inlayHints.parameterNames.enabled": "all",
+}
